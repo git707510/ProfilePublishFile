@@ -1,6 +1,6 @@
 # Keshaw Kumar Thakur - .NET & Full Stack Developer
 
-Experienced Software Engineer with over **3 years and 10 months** of hands-on expertise in developing secure, scalable web applications using **ASP.NET Core, C#, Web API, SQL Server**, and **JavaScript frameworks** like **AngularJS**. Adept at API development, payment gateway integration, and database optimization.
+Experienced Software Engineer with over **4 years** of hands-on expertise in developing secure, scalable web applications using **ASP.NET Core, C#, Web API, SQL Server**, and **JavaScript frameworks** like **AngularJS**. Adept at API development, payment gateway integration, and database optimization.
 
 ---
 
