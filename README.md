@@ -89,7 +89,7 @@ Percentage: 62.44%
 
 ## 📄 Resume
 
-You can download my full resume [here](#) (replace with actual PDF link if available).
+You can download my full resume [here](Resume.pdf) (replace with actual PDF link if available).
 
 ---
 
